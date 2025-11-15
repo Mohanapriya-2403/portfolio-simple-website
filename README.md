@@ -1,12 +1,13 @@
 My Minimalist Portfolio
 
 Welcome to my tiny digital universe!
+
 This project is a *simple two-page portfolio website* built with pure *HTML* and *basic CSS* — no frameworks, no heavy design, just clean and minimal web magic.
 
 Pages Included
 
-* *Home* — A quick peek into who I am and what I do
-* *Contact* — A simple way to reach out and say hello
+* Home — A quick peek into who I am and what I do
+* Contact — A simple way to reach out and say hello
 
 What Makes It Special?
 
@@ -17,13 +18,11 @@ What Makes It Special?
 
 Tech Used
 
-* *HTML5*
-* *CSS3*
+* HTML
+* CSS
 
 Live Preview
 
 (Add your website link here)
 
----
-
-If you want, I can also write a *short, **funny, or **super-minimal* version!
+Thankyou for visiting our portfolio website
