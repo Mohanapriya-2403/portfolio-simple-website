@@ -21,8 +21,5 @@ Tech Used
 * HTML
 * CSS
 
-Live Preview
-
-(Add your website link here)
 
 Thankyou for visiting our portfolio website
